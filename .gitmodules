@@ -1,0 +1,9 @@
+[submodule "bank_app"]
+	path = bank_app
+	url = https://github.com/tahmim-al-ashik/bank_app
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/tahmim-al-ashik/calculator
+[submodule "profile_card"]
+	path = profile_card
+	url = https://github.com/tahmim-al-ashik/profile_card
